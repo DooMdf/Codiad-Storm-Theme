@@ -1,7 +1,7 @@
 Codiad Storm Theme
 ==================
 I don't know how to use this GitHub!! for now, the latest version can be found here:  
-http://goo.gl/ixhjdl
+http://goo.gl/Z0eJd2
 
 Maybe this repository also contain latest files but I don't know if it was updated or not... true story  
 I will try to understand how it works and then I will fix it.
