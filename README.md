@@ -1,6 +1,13 @@
 Codiad Storm Theme
 ==================
 
+I don'y know how to use this GitHub!! for now, the latest version can be found here:
+https://docs.google.com/file/d/0B1VbNU7ejw5FMzdMZzNiUmc1Y0U/edit?usp=sharing
+
+Maybe this repository also contain latest files but I don't know if it was updated or not... true story
+I will try to understand how it works and then I will fix it.
+
+
 Storm theme | version 1
 
 Created by DooM
