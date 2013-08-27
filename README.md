@@ -1,9 +1,10 @@
-Codiad-Storm-Theme
+Codiad Storm Theme
 ==================
 
-Storm theme
-version 1
+Storm theme | version 1
+
 Created by DooM
+
 
 Complete Codaid theme, based on my favorite IDE
 New favicon also availble
@@ -39,7 +40,9 @@ all this bugs exist in default theme also...
 
 Preview:
 full:
+
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 file manager:
+
 <img src="http://i40.tinypic.com/x6jsj7.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
