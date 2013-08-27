@@ -36,3 +36,10 @@ All this changes is required.
 - When resizing left sidebar the workspace wait for mouse release to fit.
 
 all this bugs exist in default theme also...
+
+Preview:
+full:
+<img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+file manager:
+<img src="http://i40.tinypic.com/x6jsj7.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
