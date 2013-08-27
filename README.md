@@ -13,7 +13,7 @@ New favicon also availble
 Icons from www.iconfinder.com
 
 ### Install instructions
-1. Copy files into the same directories.
+1. Copy files into the same directories (overwrite existing files), do it manually follow next steps.
 2. NOTE: This theme reqiures modification of Codaid system files
     If you will want to change theme you will have to reset this changes
     Or your other theme will not work properly. 
@@ -30,6 +30,7 @@ Icons from www.iconfinder.com
 I dont know how to enable this theme in Codaid, I removed the default theme folder, and changed storm folder name to "default"
 ######All this changes is required.  
 If you will want to switch to different theme, you will have to undo this changes.
+
 ### Bugs
 
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
@@ -38,12 +39,9 @@ If you will want to switch to different theme, you will have to undo this change
 
 all this bugs exist in default theme also...
 
-### Preview:
-
-full:
-
+### Preview:  
+full:  
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
 
-file manager:
-
+file manager:  
 <img src="http://i40.tinypic.com/x6jsj7.jpg" border="0" alt="Image and video hosting by TinyPic">
