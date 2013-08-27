@@ -11,12 +11,8 @@
     left: 0;
     right: 0px;
     height: 22px;
-   	background: url(project-bg.png)repeat-x;
-   /*	border-left:1px solid #9b9b9b;
-   	border-right:1px solid #9b9b9b;*/
+    background: url(project-bg.png)repeat-x;
     background-color: #d4d4d4;
-   /* box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.898) inset;*/
-   /* border-top: 2px solid #141414;*/
 }
 
 .project-list-title h2 {
@@ -51,8 +47,8 @@
 }
 
 .sb-projects-content {
-	background:#fff;
-	color:#000;
+    background:#fff;
+    color:#000;
     height:100%;
     width:100%;
     overflow: auto;
@@ -75,7 +71,6 @@
 .sb-projects-content ul li {
     padding: 5px;
     white-space: nowrap;
-   /* border-radius: 3px;*/
 }
 
 .sb-projects-content ul li .icon {
