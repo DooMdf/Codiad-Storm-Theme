@@ -39,6 +39,7 @@ All this changes is required.
 all this bugs exist in default theme also...
 
 Preview:
+
 full:
 
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
