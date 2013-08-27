@@ -13,7 +13,7 @@ New favicon also availble
 Icons from www.iconfinder.com
 
 ### Install instructions
-1. Copy files into the same directories (overwrite existing files), do it manually follow next steps.
+1. Copy files into the same directories (overwrite existing files), to do it manually follow next steps.
 2. NOTE: This theme reqiures modification of Codaid system files
     If you will want to change theme you will have to reset this changes
     Or your other theme will not work properly. 
