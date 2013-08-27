@@ -1,10 +1,8 @@
 Codiad Storm Theme
 ==================
-I don't know how to use this GitHub!! for now, the latest version can be found here:  
-http://goo.gl/ixhjdl
+Repository updated.  
+You can download latest version from here: http://goo.gl/FVh2WY
 
-Maybe this repository also contain latest files but I don't know if it was updated or not... true story  
-I will try to understand how it works and then I will fix it.
 
 version 1
 ######Created by DooM
@@ -29,6 +27,7 @@ Icons from www.iconfinder.com
 
 3. in Codaid root folder, open config.php and go to line 20 change "default" to "storm" to enable this theme
    there should be another way to install themes but I don't know it :)  
+I dont know how to enable this theme in Codaid, I removed the default theme folder, and changed storm folder name to "default"
 ######All this changes is required.  
 If you will want to switch to different theme, you will have to undo this changes.
 ### Bugs
