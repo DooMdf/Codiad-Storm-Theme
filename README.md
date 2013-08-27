@@ -32,7 +32,7 @@ All this changes is required.
 
 ### Bugs ###
 
-- Vertical scroll bar dissapear on workspace load, same happens with the default theme.
+- Vertical scroll bar disappear on workspace load, same happens with the default theme.
 - When right sidebar open its covers the line number and column info.
 - When resizing left sidebar the workspace wait for mouse release to fit.
 
