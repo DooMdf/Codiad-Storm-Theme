@@ -11,7 +11,7 @@ New favicon also availble
 
 Icons from www.iconfinder.com
 
-### Install instructions ###
+### Install instructions
 
 1. Copy files into the same directories.
 2. NOTE: This theme reqiures modification of Codaid system files
@@ -30,7 +30,7 @@ All this changes is required.
 3. in Codaid root folder, open config.php and go to line 20 change "default" to "storm" to enable this theme
    there should be another way to install themes but I don't know it :)
 
-### Bugs ###
+### Bugs
 
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
 - When right sidebar open its covers the line number and column info.
@@ -38,7 +38,7 @@ All this changes is required.
 
 all this bugs exist in default theme also...
 
-Preview:
+### Preview:
 
 full:
 
