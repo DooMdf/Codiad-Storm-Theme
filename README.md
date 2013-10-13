@@ -28,7 +28,7 @@ Icons from www.iconfinder.com
 3. in Codaid root folder, open config.php and go to line 20 change "default" to "storm" to enable this theme
    there should be another way to install themes but I don't know it :)  
 I dont know how to enable this theme in Codaid, I removed the default theme folder, and changed storm folder name to "default"
-######All this changes is required.  
+######All this changes are required.  
 If you will want to switch to different theme, you will have to undo this changes.
 
 ### Bugs
