@@ -1,14 +1,11 @@
 Codiad Storm Theme
 ==================
 Repository updated.  
-You can download latest version from here: http://goo.gl/FVh2WY
 
-
-version 1
+version 1.7
 ######Created by DooM
 
 Complete Codaid theme, based on my favorite IDE  
-New favicon also availble
 
 Icons from www.iconfinder.com
 
