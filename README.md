@@ -33,5 +33,6 @@ Currently waiting for pull request, if it will be added to Codiad, all the steps
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
 - When right sidebar open its covers the line number and column info.
 - When resizing left sidebar the workspace wait for mouse release to fit.
+- Firefox not support custom scrollbars (but Chrome does).
 
 all this bugs also exist in the default theme...
