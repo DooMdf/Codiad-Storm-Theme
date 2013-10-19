@@ -1,7 +1,6 @@
 Codiad Storm Theme
 ==================
 Repository updated.  
-
 version 1.7
 ######Created by DooM
 
@@ -9,24 +8,30 @@ Complete Codaid theme, based on my favorite IDE
 
 Icons from www.iconfinder.com
 
-### Install instructions
-1. Copy files into the same directories (overwrite existing files), to do it manually follow next steps.
-2. NOTE: This theme reqiures modification of Codaid system files
-    If you will want to change theme you will have to reset this changes
-    Or your other theme will not work properly. 
+### Version 1.7 Changelog
+- Minimized images size.
+- Filemanager list view updated, now look even better.
+- Created sprite images instead of separate images in order to minimize hits and number of loaded objects.
+- Minimalistic theme.
+- Plugins should work fine, little graphic bugs may occur.
 
-   ######inside js folder:
+### Install Instructions
+If you do it manually, create folder called 'strom' in themes/ folder.
+copy files there and when you login click on 'more' button and select this theme.
+#####This Theme require little core modification:
+######inside js folder:
     - sidebar.js - go to line 188 change 190 to 160.
     - system.js - go to line 91 change .outerHeight value to 47 instead of 60.
+######inside components/project folder:
+    - init.js - go to line 104 and line 106 change 33 to 21.
+######inside config.php file
+    - go to line 20 change "default" to "storm" to enable this theme: define("THEME", "storm");
+    
+If you will switch themes you will have to reset this changes
+Or your other theme will not work properly.
+I also added code into index.php file to add support for modified themes, I will release it soon.
+It will require global changes.
 
-   ######inside components/project folder:
-	- init.js - go to line 104 and line 106 change 33 to 21.
-
-3. in Codaid root folder, open config.php and go to line 20 change "default" to "storm" to enable this theme
-   there should be another way to install themes but I don't know it :)  
-I dont know how to enable this theme in Codaid, I removed the default theme folder, and changed storm folder name to "default"
-######All this changes are required.  
-If you will want to switch to different theme, you will have to undo this changes.
 
 ### Bugs
 
@@ -34,9 +39,9 @@ If you will want to switch to different theme, you will have to undo this change
 - When right sidebar open its covers the line number and column info.
 - When resizing left sidebar the workspace wait for mouse release to fit.
 
-all this bugs exist in default theme also...
+all this bugs also exist in the default theme...
 
-### Preview:  
+### Preview:
 full:  
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
 
