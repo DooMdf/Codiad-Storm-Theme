@@ -16,6 +16,7 @@ Icons from www.iconfinder.com
 - Plugins should work fine, little graphic bugs may occur.
 - New favicon for Codiad.
 - Support for Codiad pull #559 sidebars width will be auto detected.
+- Tabs width depends on file name length (200px max).
 
 ### Preview:
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
