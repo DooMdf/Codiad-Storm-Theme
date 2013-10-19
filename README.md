@@ -15,7 +15,7 @@ Icons from www.iconfinder.com
 - Minimalistic theme.
 - Plugins should work fine, little graphic bugs may occur.
 - New favicon for Codiad.
-- Support for Codiad pull #559 sidebars width will be auto detected.
+- Support for Codiad (pull request #559) sidebars width will be auto detected.
 - Tabs width depends on file name length (200px max).
 
 ### Preview:
@@ -28,21 +28,6 @@ updated file manager list view:
 Download this repository and extract it to Codiad theme folder.
 Currently waiting for pull request, if it will be added to Codiad, all the steps below will be unnecessary as it will autodetect the width.
 
-copy files there and when you login click on 'more' button and select this theme.
-#####This Theme require little core modification:
-######inside js folder:
-    - sidebar.js - go to line 188 change 190 to 160.
-    - system.js - go to line 91 change .outerHeight value to 47 instead of 60.
-######inside components/project folder:
-    - init.js - go to line 104 and line 106 change 33 to 21.
-######inside config.php file
-    - go to line 20 change "default" to "storm" to enable this theme: define("THEME", "storm");
-    
-If you will switch themes you will have to reset this changes
-Or your other theme will not work properly.
-I also added code into index.php file to add support for modified themes, I will release it soon.
-It will require global changes.
-c
 ### Bugs
 
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
