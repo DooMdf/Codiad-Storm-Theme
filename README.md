@@ -45,5 +45,5 @@ all this bugs also exist in the default theme...
 full:  
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
 
-file manager:  
-<img src="http://i40.tinypic.com/x6jsj7.jpg" border="0" alt="Image and video hosting by TinyPic">
+updated file manager list view:  
+<img src="http://i44.tinypic.com/124g7md.png" border="0" alt="http://i40.tinypic.com/x6jsj7.jpg">
