@@ -2,6 +2,7 @@
 	// will work only if you use modified index.php file
 	$df_themeConfig = array(
 		"tabNames" => 1, // show full file path or file name only in tabs (0 = full path and name | 1 = name only)
+		"favIco" => 1, // use default fav icon or use icon specified with theme (0 = original | 1 = theme icon), place favicon.ico into theme root
 		"logoutBtn" => 1, // show logout button at the editor-bottom-bar panel (0 = no | 1 = yes)
 		"Link" => 1, // show aditional button at login page with link back to given URL (0 = no | 1 = yes)
 		"LinkAddress" => "http://www.codiad.com/", // if backlink = 1, enter full url to redirect
