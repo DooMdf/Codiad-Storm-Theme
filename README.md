@@ -1,7 +1,7 @@
 Codiad Storm Theme
 ==================
-Repository updated.  
 version 1.7
+Repository updated.  
 ######Created by DooM
 
 Complete Codaid theme, based on my favorite IDE  
