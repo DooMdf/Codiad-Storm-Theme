@@ -14,9 +14,17 @@ Icons from www.iconfinder.com
 - Created sprite images instead of separate images in order to minimize hits and number of loaded objects.
 - Minimalistic theme.
 - Plugins should work fine, little graphic bugs may occur.
+- New favicon for Codiad.
+
+### Preview:
+full:  
+<img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
+
+updated file manager list view:  
+<img src="http://i44.tinypic.com/124g7md.png" border="0" alt="http://i40.tinypic.com/x6jsj7.jpg">
 
 ### Install Instructions
-If you do it manually, create folder called 'strom' in themes/ folder.
+Download this repository and extract it to Codaid theme folder.
 copy files there and when you login click on 'more' button and select this theme.
 #####This Theme require little core modification:
 ######inside js folder:
@@ -32,7 +40,6 @@ Or your other theme will not work properly.
 I also added code into index.php file to add support for modified themes, I will release it soon.
 It will require global changes.
 
-
 ### Bugs
 
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
@@ -40,10 +47,3 @@ It will require global changes.
 - When resizing left sidebar the workspace wait for mouse release to fit.
 
 all this bugs also exist in the default theme...
-
-### Preview:
-full:  
-<img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
-
-updated file manager list view:  
-<img src="http://i44.tinypic.com/124g7md.png" border="0" alt="http://i40.tinypic.com/x6jsj7.jpg">
