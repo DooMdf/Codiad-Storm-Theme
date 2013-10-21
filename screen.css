@@ -623,6 +623,17 @@ table [class^="icon-"], [class*=" icon-"] {
 
 #sb-right .sidebar-handle span a:hover { background-color: transparent; border:none;box-shadow:none;margin-top: 2px;color:#940000;}
 
+
+.sb-right-category {
+	font-weight: 700;
+	text-align: center;
+	background: #E4E4E4;
+	margin-top: -3px;
+	padding: 2px 0;
+	border-radius: 0 0 5px 5px;
+	margin-bottom: 2px;
+}
+
 .sb-left-content {
     position: absolute;
     top: 26px;
