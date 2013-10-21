@@ -370,7 +370,8 @@ table [class^="icon-"], [class*=" icon-"] {
 #root-editor-wrapper {
     /* Adjust this size depending on the final editor-top-bar height. */
     top: 26px;
-    background: #f5f5f5;
+    background: url('root-editor-wrapper-bg.gif')no-repeat center center;
+    background-color: #dcdcdc;
     position: relative;
 }
 
