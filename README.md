@@ -8,7 +8,7 @@ Complete Codiad theme, based on my favorite IDE
 
 Icons from www.iconfinder.com
 
-### Version 1.7 Changelog
+### Version 1.8 Changelog
 - Minimized images size.
 - Filemanager list view updated, now look even better.
 - Created sprite images instead of separate images in order to minimize hits and number of loaded objects.
