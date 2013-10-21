@@ -28,8 +28,7 @@ updated file manager list view:
 
 ### Install Instructions
 Download this repository and extract it to Codiad theme folder.
-Currently waiting for pull request, if it will be added to Codiad, all the steps below will be unnecessary as it will autodetect the width.
-
+Currently waiting for pull request, if it will be added to Codiad, this theme will work as it should.
 ### Bugs
 
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
