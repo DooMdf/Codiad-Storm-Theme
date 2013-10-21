@@ -1,6 +1,6 @@
 Codiad Storm Theme
 ==================
-version 1.7
+version 1.8
 Repository updated
 ######Created by DooM
 
@@ -17,6 +17,7 @@ Icons from www.iconfinder.com
 - New favicon for Codiad.
 - Support for Codiad (pull request #559) sidebars width will be auto detected.
 - Tabs width depends on file name length (200px max).
+- Edit to empty editor screen with message on center.
 
 ### Preview:
 <img src="http://i43.tinypic.com/54pol.jpg" border="0" alt="Image and video hosting by TinyPic">
