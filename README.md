@@ -1,8 +1,8 @@
 Codiad Storm Theme
 ==================
-version 1.8
-Repository updated
-######Created by DooM
+version <b>1.8</b>
+
+<b>Created by DooM</b>
 
 Complete Codiad theme, based on my favorite IDE  
 
@@ -27,8 +27,8 @@ updated file manager list view:
 <img src="http://i44.tinypic.com/124g7md.png" border="0" alt="http://i40.tinypic.com/x6jsj7.jpg">
 
 ### Install Instructions
-Download this repository and extract it to Codiad theme folder.
-Currently waiting for pull request, if it will be added to Codiad, this theme will work as it should.
+Download this repository and extract it to Codiad theme folder.<br>
+<b>Currently waiting for pull request, if it will be added to Codiad, this theme will work as it should.<b/>
 ### Bugs
 
 - Vertical scroll bar disappear on workspace load, same happens with the default theme.
