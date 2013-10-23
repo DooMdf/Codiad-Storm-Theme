@@ -1,5 +1,10 @@
 /* WEBKIT SCROLLBARS */
 
+.ace_scrollbar { /* override ace.js settings - editor vertical scrollbar */
+	right: 10px !important;
+	width: 10px !important;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
     height: 10px;
